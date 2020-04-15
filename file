@@ -20,7 +20,7 @@ namespace ConsoleApp6
             this.length = length;/////класс паралелограм я не створював ,так як його периметр шукається так же само 
                                 /////як і периметр звичайного прямокутника. 
         }
-        public string GetName()
+        public string GetNammme()
         {
             return name; 
 
